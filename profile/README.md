@@ -1,4 +1,4 @@
-FreeFang is a community effort to provide a full libre and online implementation of the game [Werewolf](https://en.wikipedia.org/wiki/Mafia_(party_game).  
+FreeFang is a community effort to provide a full libre and online implementation of the game [Werewolf](https://en.wikipedia.org/wiki/Mafia_(party_game)).  
 The project is currently in development but in a functionning state with most important features implemented.  
 To get started with hosting see [freefang-server](https://github.com/FreeFangGame/freefang-server).  
 To get playing go check out our client [freefang-qt](https://github.com/FreeFangGame/freefang-qt).  
