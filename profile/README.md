@@ -5,6 +5,6 @@ To get playing go check out our client [freefang-qt](https://github.com/FreeFang
 
 The project's main developers are [Solaris](https://github.com/Solirs) and [lukakralik](https://github.com/lukakralik).  
 
-We are always looking for contributors and developers, you can contribute in many ways, such as contributing code, helping write documentation, guides  
+We are always looking for contributors and developers, you can contribute in many ways, such as contributing code, hosting a server, helping write documentation, guides  
 helping with testing, reporting bugs, or even simply spreading the word about FreeFang.  
 
